@@ -1,0 +1,33 @@
+
+body {
+background-color: #000000;
+
+}
+
+h1{
+
+    color: white;
+
+
+
+
+}
+
+p {
+    margin-top: 0;
+}
+
+.OFN {
+    max-width: 50%;
+
+}
+
+.columns {
+
+    column-count: 3;
+    column-width: 500px;
+    /* column-fill: auto; */
+    column-gap: 0em;
+
+
+}
