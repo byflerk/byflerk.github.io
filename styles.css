@@ -19,6 +19,7 @@ h1{
 p {
     color: white;
     margin-top: 0;
+    padding-bottom: 20px;
 }
 
 .OFN {
@@ -32,6 +33,13 @@ p {
     column-width: 500px;
     /* column-fill: auto; */
     column-gap: 0em;
+
+
+}
+
+.footer {
+
+    <div align="right">
 
 
 }
